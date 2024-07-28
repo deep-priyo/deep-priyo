@@ -1,37 +1,52 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Priyadeep 👋
 
 ## 🚀 About Me
-I'm a passionate full-stack developer with a strong focus on backend technologies. I enjoy building scalable web applications and solving complex problems. I recently developed a full-stack e-commerce app, showcasing my skills in backend development, authentication, and database management.
+I'm a passionate full-stack developer with a strong focus on backend technologies and an enthusiasm for continuous learning. With a solid grasp of Flask for backend development, I excel in building scalable web applications, handling authentication, and managing databases efficiently.
 
-- 🌱 I’m currently learning **[Your Current Learning Focus]**
-- 👯 I’m looking to collaborate on **[Projects You’re Interested In]**
-- 🤔 I’m looking for help with **[Areas Where You Need Help]**
-- 💬 Ask me about **Flask, SQLAlchemy, Backend Development**
-- 📫 How to reach me: **[Your Email]**
-- 😄 Pronouns: **[Your Pronouns]**
-- ⚡ Fun fact: **[Fun Fact About You]**
+I've completed a comprehensive study of Data Structures and Algorithms (DSA) in Java, which has honed my problem-solving skills, allowing me to tackle complex challenges effectively, especially on platforms like LeetCode. Additionally, I've acquired proficiency in Bootstrap, Tailwind CSS, JavaScript, and React, enhancing my ability to create responsive and visually appealing user interfaces. I'm expanding my skill set by studying Data Science at IIT Madras.
 
-## 🛠️ Tech Stack
+Through various projects, including a full-stack e-commerce application I developed for my client, I've demonstrated my capabilities in backend development while also exploring frontend frameworks to build holistic solutions. I'm committed to leveraging my skills to drive innovation and deliver impactful solutions in the tech industry.
 
-Here are some of the technologies I work with:
+- 🌱 **I’m currently learning:**
+  - Exploring more backend frameworks like **Django** 🚀
+  - Collaborating on projects involving **Machine Learning and Gen AI** 🤖
+
+- 👯 **I’m looking to collaborate on:** Full Stack Apps, AI/ML Projects
+
+- 💬 **Ask me about:** Flask, SQLAlchemy, Backend Development, DSA, JavaScript
+
+## 🛠️ Skills
+- **Programming Languages:** Java, C, C++, Python, JavaScript
+- **Backend:** Flask, Django
+- **Frontend:** Bootstrap, Tailwind CSS, JavaScript, React, Next.js
+- **Database:** SQLAlchemy, SQL, MongoDB
+- **Problem Solving:** Data Structures and Algorithms (DSA) in Java, LeetCode
+- **Concepts:** Object-Oriented Programming (OOP), RESTful APIs
+
+## 🔧 Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-🐍?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-🟨?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/Java-🔵?style=flat&logo=java)
+![C++](https://img.shields.io/badge/C++-💻?style=flat&logo=cplusplus)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-🟧?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-🔵?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-💜?style=flat&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-🐦?style=flat&logo=tailwindcss)
+![React](https://img.shields.io/badge/React-⚛️?style=flat&logo=react)
 
 ### Backend
 ![Flask](https://img.shields.io/badge/Flask-⚗️?style=flat&logo=flask)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-🔶?style=flat&logo=python)
+![Django](https://img.shields.io/badge/Django-🖤?style=flat&logo=django)
 ![Node.js](https://img.shields.io/badge/Node.js-🟩?style=flat&logo=node.js)
 
 ### Databases
 ![SQLite](https://img.shields.io/badge/SQLite-🗄️?style=flat&logo=sqlite)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-🐘?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-🍃?style=flat&logo=mongodb)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-🔧?style=flat&logo=git)
@@ -46,23 +61,51 @@ Here are some of the technologies I work with:
 
 ## 📚 Recent Projects
 
-### Full-Stack E-commerce App
-A comprehensive e-commerce application built using Flask, SQLAlchemy, and Bootstrap. The project includes features such as user authentication, product management, and dynamic filtering.
+### 1. **Full-Stack E-commerce App**
+A comprehensive e-commerce application built using Flask, SQLAlchemy, and Bootstrap. This project includes features such as user authentication, product management, and dynamic filtering.
 
 - **Backend**: Flask, SQLAlchemy
 - **Frontend**: HTML, CSS, Bootstrap
 - **Database**: SQLite
 - **Features**: User login and registration, product CRUD operations, search and filtering
 
-![Project Screenshot](https://via.placeholder.com/600x300)
+![E-commerce App Screenshot](https://via.placeholder.com/600x300)
 
 [🔗 View Project](https://github.com/yourusername/ecommerce-app)
 
-### Other Projects
+### 2. **Movie Collection App**
+A movie collection application where users can add, edit, delete, and sort movies.
 
-- [Project Name](https://github.com/yourusername/project-name) - Brief description
-- [Project Name](https://github.com/yourusername/project-name) - Brief description
-- [Project Name](https://github.com/yourusername/project-name) - Brief description
+- **Backend**: Flask, SQLAlchemy
+- **Frontend**: HTML, Bootstrap
+- **Database**: SQLite
+- **Features**: Add, edit, delete movies, sort by different categories
+
+![Movie App Screenshot](https://via.placeholder.com/600x300)
+
+[🔗 View Project](https://github.com/yourusername/movie-collection-app)
+
+### 3. **Book Collection App**
+A simple app to track and manage your book collection.
+
+- **Backend**: Flask, SQLAlchemy
+- **Frontend**: HTML, Bootstrap
+- **Database**: SQLite
+- **Features**: Add, edit, delete books, sort books by title
+
+![Book App Screenshot](https://via.placeholder.com/600x300)
+
+[🔗 View Project](https://github.com/yourusername/book-collection-app)
+
+### 4. **Random Number Generator with Flask**
+A fun Flask app to generate random numbers and display the current year dynamically.
+
+- **Backend**: Flask
+- **Features**: Display random numbers, update footer to current year
+
+![Random Number App Screenshot](https://via.placeholder.com/600x300)
+
+[🔗 View Project](https://github.com/yourusername/random-number-generator)
 
 ## 📫 Connect with Me
 
