@@ -65,8 +65,9 @@ I'm a passionate full-stack developer focused on backend technologies and contin
 
 | 📊 **GitHub Stats** |  |
 |---------------------|--|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deep-priyo&show_icons=true&theme=radical&include_all_commits=true&count_private=true) | ![Custom Stats](https://github-readme-stats.vercel.app/api?username=deep-priyo&count_private=true&show_icons=true&include_all_commits=true&hide=prs,stars&custom_title=Priyadeep%20Mullick%27s%20GitHub%20Stats&theme=radical) |
+ ![Custom Stats](https://github-readme-stats.vercel.app/api?username=deep-priyo&count_private=true&show_icons=true&include_all_commits=true&hide=prs,stars&custom_title=Priyadeep%20Mullick%27s%20GitHub%20Stats&theme=radical) |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-priyo&layout=compact&theme=radical&hide=css,html,scss) | ![Contributions](https://img.shields.io/badge/Contributions-104-green?style=flat&logo=github) ![Repositories](https://img.shields.io/badge/Repositories-10-blue?style=flat&logo=github) |
+
 
 
 
