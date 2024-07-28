@@ -1,12 +1,12 @@
-# Hi there, I'm Priyadeep 👋
+# Hi there, I'm [Your Name] 👋
 
 ## 🚀 About Me
-I'm a passionate developer with a keen interest in building scalable web applications and working with cutting-edge technologies. I love solving problems and learning new things!
+I'm a passionate full-stack developer with a strong focus on backend technologies. I enjoy building scalable web applications and solving complex problems. I recently developed a full-stack e-commerce app, showcasing my skills in backend development, authentication, and database management.
 
 - 🌱 I’m currently learning **[Your Current Learning Focus]**
 - 👯 I’m looking to collaborate on **[Projects You’re Interested In]**
 - 🤔 I’m looking for help with **[Areas Where You Need Help]**
-- 💬 Ask me about **[Your Expertise]**
+- 💬 Ask me about **Flask, SQLAlchemy, Backend Development**
 - 📫 How to reach me: **[Your Email]**
 - 😄 Pronouns: **[Your Pronouns]**
 - ⚡ Fun fact: **[Fun Fact About You]**
@@ -16,23 +16,22 @@ I'm a passionate developer with a keen interest in building scalable web applica
 Here are some of the technologies I work with:
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-🟨?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-🐍?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-🟦?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-🟨?style=flat&logo=javascript)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-⚛️?style=flat&logo=react)
-![Vue.js](https://img.shields.io/badge/Vue.js-🟩?style=flat&logo=vue.js)
 ![HTML5](https://img.shields.io/badge/HTML5-🟧?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-🔵?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-💜?style=flat&logo=bootstrap)
 
 ### Backend
+![Flask](https://img.shields.io/badge/Flask-⚗️?style=flat&logo=flask)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-🔶?style=flat&logo=python)
 ![Node.js](https://img.shields.io/badge/Node.js-🟩?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-⬛?style=flat&logo=express)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-💚?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-🔵?style=flat&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-🗄️?style=flat&logo=sqlite)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-🐘?style=flat&logo=postgresql)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-🔧?style=flat&logo=git)
@@ -45,6 +44,26 @@ Here are some of the technologies I work with:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
+## 📚 Recent Projects
+
+### Full-Stack E-commerce App
+A comprehensive e-commerce application built using Flask, SQLAlchemy, and Bootstrap. The project includes features such as user authentication, product management, and dynamic filtering.
+
+- **Backend**: Flask, SQLAlchemy
+- **Frontend**: HTML, CSS, Bootstrap
+- **Database**: SQLite
+- **Features**: User login and registration, product CRUD operations, search and filtering
+
+![Project Screenshot](https://via.placeholder.com/600x300)
+
+[🔗 View Project](https://github.com/yourusername/ecommerce-app)
+
+### Other Projects
+
+- [Project Name](https://github.com/yourusername/project-name) - Brief description
+- [Project Name](https://github.com/yourusername/project-name) - Brief description
+- [Project Name](https://github.com/yourusername/project-name) - Brief description
+
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-🔗?style=flat&logo=linkedin)](https://linkedin.com/in/yourlinkedin)
@@ -53,9 +72,9 @@ Here are some of the technologies I work with:
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Full-Stack App with React and Node.js](https://yourblog.com/post1)
-- [Understanding Async/Await in JavaScript](https://yourblog.com/post2)
-- [Tips for Writing Clean Code](https://yourblog.com/post3)
+- [How I Built a Full-Stack E-commerce App with Flask](https://yourblog.com/post1)
+- [Understanding User Authentication in Web Apps](https://yourblog.com/post2)
+- [Tips for Writing Clean and Maintainable Code](https://yourblog.com/post3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
