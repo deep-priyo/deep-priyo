@@ -1,11 +1,9 @@
-# Hi there, I'm Priyadeep 👋
-
 ## 🚀 About Me
-I'm a passionate full-stack developer with a strong focus on backend technologies and an enthusiasm for continuous learning. With a solid grasp of Flask for backend development, I excel in building scalable web applications, handling authentication, and managing databases efficiently.
+I'm a passionate full-stack developer focused on backend technologies and continuous learning. With strong expertise in **Flask** and a growing knowledge of **Django**, I specialize in creating scalable web applications, robust authentication systems, and efficient database management.  
 
-I've completed a comprehensive study of Data Structures and Algorithms (DSA) in Java, which has honed my problem-solving skills, allowing me to tackle complex challenges effectively, especially on platforms like LeetCode. Additionally, I've acquired proficiency in Bootstrap, Tailwind CSS, JavaScript, and React, enhancing my ability to create responsive and visually appealing user interfaces. I'm expanding my skill set by studying Data Science at IIT Madras.
+I've mastered Data Structures and Algorithms (DSA) in Java, honing my problem-solving skills on platforms like LeetCode. I've also developed proficiency in **Bootstrap**, **Tailwind CSS**, **JavaScript**, and **React**, allowing me to build responsive and engaging user interfaces. I'm expanding my skills by studying Data Science at IIT Madras.  
 
-Through various projects, including a full-stack e-commerce application I developed for my client, I've demonstrated my capabilities in backend development while also exploring frontend frameworks to build holistic solutions. I'm committed to leveraging my skills to drive innovation and deliver impactful solutions in the tech industry.
+I've worked on diverse projects, including a full-stack e-commerce application, demonstrating my backend development capabilities and exploring frontend technologies. I'm committed to driving innovation and delivering impactful solutions in the tech industry.  
 
 - 🌱 **I’m currently learning:**
   - Exploring more backend frameworks like **Django** 🚀
@@ -55,71 +53,17 @@ Through various projects, including a full-stack e-commerce application I develo
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=deep-priyo&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-priyo&layout=compact&theme=radical)
 
-## 📚 Recent Projects
-
-### 1. **Full-Stack E-commerce App**
-A comprehensive e-commerce application built using Flask, SQLAlchemy, and Bootstrap. This project includes features such as user authentication, product management, and dynamic filtering.
-
-- **Backend**: Flask, SQLAlchemy
-- **Frontend**: HTML, CSS, Bootstrap
-- **Database**: SQLite
-- **Features**: User login and registration, product CRUD operations, search and filtering
-
-![E-commerce App Screenshot](https://via.placeholder.com/600x300)
-
-[🔗 View Project](https://github.com/yourusername/ecommerce-app)
-
-### 2. **Movie Collection App**
-A movie collection application where users can add, edit, delete, and sort movies.
-
-- **Backend**: Flask, SQLAlchemy
-- **Frontend**: HTML, Bootstrap
-- **Database**: SQLite
-- **Features**: Add, edit, delete movies, sort by different categories
-
-![Movie App Screenshot](https://via.placeholder.com/600x300)
-
-[🔗 View Project](https://github.com/yourusername/movie-collection-app)
-
-### 3. **Book Collection App**
-A simple app to track and manage your book collection.
-
-- **Backend**: Flask, SQLAlchemy
-- **Frontend**: HTML, Bootstrap
-- **Database**: SQLite
-- **Features**: Add, edit, delete books, sort books by title
-
-![Book App Screenshot](https://via.placeholder.com/600x300)
-
-[🔗 View Project](https://github.com/yourusername/book-collection-app)
-
-### 4. **Random Number Generator with Flask**
-A fun Flask app to generate random numbers and display the current year dynamically.
-
-- **Backend**: Flask
-- **Features**: Display random numbers, update footer to current year
-
-![Random Number App Screenshot](https://via.placeholder.com/600x300)
-
-[🔗 View Project](https://github.com/yourusername/random-number-generator)
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-🔗?style=flat&logo=linkedin)](https://linkedin.com/in/yourlinkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-🔗?style=flat&logo=linkedin)](https://linkedin.com/in/prdm)
 [![Twitter](https://img.shields.io/badge/Twitter-🐦?style=flat&logo=twitter)](https://twitter.com/yourtwitter)
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How I Built a Full-Stack E-commerce App with Flask](https://yourblog.com/post1)
-- [Understanding User Authentication in Web Apps](https://yourblog.com/post2)
-- [Tips for Writing Clean and Maintainable Code](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
-⭐️ From [Your GitHub Username](https://github.com/yourusername)
+⭐️ From [Your GitHub Username](https://github.com/deep-priyo)
