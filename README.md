@@ -69,7 +69,7 @@ I've worked on diverse projects, including a full-stack e-commerce application, 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=deep-priyo&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-priyo&layout=compact&theme=radical&hide=css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-priyo&layout=compact&theme=radical&hide=css,html,scss)
 
 
 
