@@ -11,14 +11,6 @@ I'm a passionate full-stack developer focused on backend technologies and contin
 💬 **Ask me about:** Flask, SQLAlchemy, Backend Development, DSA, JavaScript
 
 
-## 🛠️ Skills
-- **Programming Languages:** Java, C, C++, Python, JavaScript
-- **Backend:** Flask, Django
-- **Frontend:** Bootstrap, Tailwind CSS, JavaScript, React, Next.js
-- **Database:** SQLAlchemy, SQL, MongoDB
-- **Problem Solving:** Data Structures and Algorithms (DSA) in Java
-- **Concepts:** Object-Oriented Programming (OOP), RESTful APIs
-
 ## 🖥️ Tech Stack
 
 ### **Languages**
@@ -62,12 +54,20 @@ I'm a passionate full-stack developer focused on backend technologies and contin
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 
+## 🛠️ Skills
+- **Programming Languages:** Java, C, C++, Python, JavaScript
+- **Backend:** Flask, Django
+- **Frontend:** Bootstrap, Tailwind CSS, JavaScript, React, Next.js
+- **Database:** SQLAlchemy, SQL, MongoDB
+- **Problem Solving:** Data Structures and Algorithms (DSA) in Java
+- **Concepts:** Object-Oriented Programming (OOP), RESTful APIs
+
 
 | 📊 **GitHub Stats** |
 |---------------------|
  ![Custom Stats](https://github-readme-stats.vercel.app/api?username=deep-priyo&count_private=true&show_icons=true&include_all_commits=true&hide=prs,stars&custom_title=Priyadeep%20Mullick%27s%20GitHub%20Stats&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-priyo&layout=compact&theme=radical&hide=css,html,scss)
-![Contributions](https://img.shields.io/badge/Contributions-104-green?style=flat&logo=github) ![Repositories](https://img.shields.io/badge/Repositories-10-blue?style=flat&logo=github)
+![Contributions](https://img.shields.io/badge/Contributions-112-green?style=flat&logo=github) ![Repositories](https://img.shields.io/badge/Repositories-19-blue?style=flat&logo=github)
 
 
 
