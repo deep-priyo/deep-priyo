@@ -1,9 +1,7 @@
 ## 🚀 About Me
-I'm a passionate full-stack developer focused on backend technologies and continuous learning. With strong expertise in **Flask** and a growing knowledge of **Django**, I specialize in creating scalable web applications, robust authentication systems, and efficient database management.  
+I'm a passionate full-stack developer focused on backend technologies and continuous learning, specializing in creating scalable web applications, robust authentication systems, and efficient database management.  
 
-I've mastered Data Structures and Algorithms (DSA) in Java, honing my problem-solving skills on platforms like LeetCode. I've also developed proficiency in **Bootstrap**, **Tailwind CSS**, **JavaScript**, and **React**, allowing me to build responsive and engaging user interfaces. I'm expanding my skills by studying Data Science at IIT Madras.  
 
-I've worked on diverse projects, including a full-stack e-commerce application, demonstrating my backend development capabilities and exploring frontend technologies. I'm committed to driving innovation and delivering impactful solutions in the tech industry.  
 
 - 🌱 **I’m currently learning:**
   - Exploring more backend frameworks like **Django** 🚀
