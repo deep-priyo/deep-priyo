@@ -3,13 +3,37 @@ I'm a passionate full-stack developer focused on backend technologies and contin
 
 
 
-- 🌱 **I’m currently learning:**
+🌱 **I’m currently learning:**
+  
+  ![Django](https://img.shields.io/badge/Django-🟢?style=flat&logo=django&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-⚗️?style=flat&logo=flask)
+  ![Machine Learning](https://img.shields.io/badge/Machine_Learning-🤖?style=flat&logo=python)
+  ![Gen AI](https://img.shields.io/badge/Gen_AI-🔮?style=flat&logo=ai)
+  
   - Exploring more backend frameworks like **Django** 🚀
   - Collaborating on projects involving **Machine Learning and Gen AI** 🤖
 
-- 👯 **I’m looking to collaborate on:** Full Stack Apps, AI/ML Projects
+👯 **I’m looking to collaborate on:**
 
-- 💬 **Ask me about:** Flask, SQLAlchemy, Backend Development, DSA, JavaScript
+  ![Full Stack Apps](https://img.shields.io/badge/Full_Stack-🌐?style=flat&logo=react&logoColor=white)
+  ![AI/ML Projects](https://img.shields.io/badge/AI/ML_Projects-🧠?style=flat&logo=tensorflow)
+
+  - Full Stack Apps
+  - AI/ML Projects
+
+💬 **Ask me about:**
+
+  ![Flask](https://img.shields.io/badge/Flask-⚗️?style=flat&logo=flask)
+  ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-🔶?style=flat&logo=python)
+  ![Backend Development](https://img.shields.io/badge/Backend_Development-🛠️?style=flat&logo=backend)
+  ![DSA](https://img.shields.io/badge/DSA-🧩?style=flat&logo=java)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-🟨?style=flat&logo=javascript)
+  
+  - Flask
+  - SQLAlchemy
+  - Backend Development
+  - DSA
+  - JavaScript
 
 ## 🛠️ Skills
 - **Programming Languages:** Java, C, C++, Python, JavaScript
