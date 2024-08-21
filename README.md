@@ -70,7 +70,7 @@ I'm a passionate full-stack developer focused on backend technologies and contin
 ![Contribution](https://github-readme-streak-stats.herokuapp.com/?user=deep-priyo&theme=dark&hide_border=false)
 
 
-|🏆 **GitHub Trophies** |
+| 🏆 **GitHub Tophies** |
 |---------------------|
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=deep-priyo&theme=radical)
 
