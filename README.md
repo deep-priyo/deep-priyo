@@ -72,7 +72,7 @@ I'm a passionate full-stack developer focused on backend technologies and contin
 
 | 🏆 **GitHub Tophies** |
 |---------------------|
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=deep-priyo&theme=radical)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=deep-priyo&theme=dark_lover)
 
 ## 📫 Connect with Me
 
