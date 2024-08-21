@@ -69,20 +69,21 @@ I'm a passionate full-stack developer focused on backend technologies and contin
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-priyo&layout=compact&theme=radical&hide=css,html,scss)
 ![Contribution](https://github-readme-streak-stats.herokuapp.com/?user=deep-priyo&theme=dark&hide_border=false)
 
+
+|🏆 **GitHub Trophies** |
+|---------------------|
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=deep-priyo&theme=radical)
 
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-🔗?style=flat&logo=linkedin)](https://linkedin.com/in/prdm)
+[![Twitter](https://img.shields.io/badge/Twitter-🐦?style=flat&logo=twitter)](https://x.com/deep_priyo)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=deep-priyo&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
-
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-🔗?style=flat&logo=linkedin)](https://linkedin.com/in/prdm)
-[![Twitter](https://img.shields.io/badge/Twitter-🐦?style=flat&logo=twitter)](https://x.com/deep_priyo)
 
 
 ---
