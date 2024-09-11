@@ -78,7 +78,7 @@ I'm a passionate full-stack developer focused on backend technologies and contin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-🔗?style=flat&logo=linkedin)](https://linkedin.com/in/prdm)
 [![Twitter](https://img.shields.io/badge/Twitter-🐦?style=flat&logo=twitter)](https://x.com/deep_priyo)
-[![LeetCode](https://img.shields.io/badge/Twitter-🐦?style=flat&logo=leetcode)](https://leetcode.com/u/priyadeepmullick/)
+[![LeetCode](https://img.shields.io/badge/leetcode-🐦?style=flat&logo=leetcode)](https://leetcode.com/u/priyadeepmullick/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=deep-priyo&icon=0&color=0)](https://visitcount.itsvg.in)
