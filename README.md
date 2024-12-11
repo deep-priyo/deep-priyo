@@ -60,9 +60,13 @@ I'm a passionate full-stack developer focused on backend technologies and contin
 - **Problem Solving:** Data Structures and Algorithms (DSA) in Java
 - **Concepts:** Object-Oriented Programming (OOP), RESTful APIs
 
-| 📊 **GitHub Stats** |
-|---------------------|
-![Custom Stats](https://github-readme-stats.vercel.app/api?username=deep-priyo&count_private=true&show_icons=true&include_all_commits=true&hide=prs,stars&custom_title=Priyadeep%20Mullick%27s%20GitHub%20Stats&theme=radical)
+### **GitHub Stats**
+
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=deep-priyo&theme=radical&hide_border=true)
+
+### **Languages Used**
+
+![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-priyo&langs_count=6&theme=radical&hide_border=true)
 
 ## 📫 Connect with Me
 
