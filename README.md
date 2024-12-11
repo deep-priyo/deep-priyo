@@ -74,7 +74,7 @@ I'm a passionate full-stack developer focused on backend technologies and contin
 
 ### **LeetCode Stats**
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/priyadeepmullick?theme=dark&font=Raleway)
+![LeetCode Stats](https://leetcard.jacoblin.cool/priyadeepmullick?theme=dark&font=Raleway&show_problem_count=true&max_streak=true)
 
 
 ## 📫 Connect with Me
