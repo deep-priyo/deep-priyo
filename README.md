@@ -1,15 +1,13 @@
 ## 🚀 About Me
 I'm a passionate full-stack developer focused on backend technologies and continuous learning, specializing in creating scalable web applications, robust authentication systems, and efficient database management.  
 
-
 🌱 **I’m currently learning:**
-  - Exploring more backend frameworks like **Django, SpringBoot,NodeJS** 🚀
-  - Collaborating on projects involving **Machine Learning and Gen AI** 🤖
+  - Exploring more frontend frameworks like **React, Next.js, Vue** 🚀
+  - Enhancing skills in **Backend Development** with technologies such as **Flask, Django, Node.js** 🚀
 
-👯 **I’m looking to collaborate on:** Full Stack Apps, AI/ML Projects
+👯 **I’m looking to collaborate on:** Full Stack Apps, Web Development Projects
 
 💬 **Ask me about:** Flask, SQLAlchemy, Backend Development, DSA, JavaScript
-
 
 ## 🖥️ Tech Stack
 
@@ -62,17 +60,9 @@ I'm a passionate full-stack developer focused on backend technologies and contin
 - **Problem Solving:** Data Structures and Algorithms (DSA) in Java
 - **Concepts:** Object-Oriented Programming (OOP), RESTful APIs
 
-
 | 📊 **GitHub Stats** |
 |---------------------|
- ![Custom Stats](https://github-readme-stats.vercel.app/api?username=deep-priyo&count_private=true&show_icons=true&include_all_commits=true&hide=prs,stars&custom_title=Priyadeep%20Mullick%27s%20GitHub%20Stats&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-priyo&layout=compact&theme=radical&hide=css,html,scss)
-![Contribution](https://github-readme-streak-stats.herokuapp.com/?user=deep-priyo&theme=dark&hide_border=false)
-
-
-| 🏆 **GitHub Tophies** |
-|---------------------|
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=deep-priyo&theme=dark_lover)
+![Custom Stats](https://github-readme-stats.vercel.app/api?username=deep-priyo&count_private=true&show_icons=true&include_all_commits=true&hide=prs,stars&custom_title=Priyadeep%20Mullick%27s%20GitHub%20Stats&theme=radical)
 
 ## 📫 Connect with Me
 
@@ -82,11 +72,3 @@ I'm a passionate full-stack developer focused on backend technologies and contin
 
 ---
 [![](https://visitcount.itsvg.in/api?id=deep-priyo&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-
-
----
-
-⭐️ From [deep-priyo](https://github.com/deep-priyo)
