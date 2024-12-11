@@ -62,7 +62,11 @@ I'm a passionate full-stack developer focused on backend technologies and contin
 
 ### **GitHub Stats**
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=deep-priyo&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deep-priyo&show_icons=true&theme=radical&hide_title=true)
+
+### **GitHub Streak**
+
+![GitHub Streak](https://streak-stats.demolab.com?user=deep-priyo&theme=radical&hide_border=true)
 
 ### **Languages Used**
 
