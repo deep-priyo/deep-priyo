@@ -60,6 +60,8 @@ I'm a passionate full-stack developer focused on backend technologies and contin
 - **Problem Solving:** Data Structures and Algorithms (DSA) in Java
 - **Concepts:** Object-Oriented Programming (OOP), RESTful APIs
 
+[![An image of @hopping12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hopping12)](https://holopin.io/@hopping12)
+
 ### **Languages**
 
 ![Languages & Frameworks](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-priyo&langs_count=6&theme=radical&hide_border=true&layout=compact&hide=html)
