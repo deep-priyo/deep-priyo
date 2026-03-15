@@ -85,20 +85,23 @@ Backend-focused **Software Engineer & AI Systems Builder** building scalable API
 </table>
 
 </div>
+
 ---
 
+## <img  width="40" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"/> Achievements & Badges  <img  width="40" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"/>
 
-
-# 🏆 Badges
 
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=FFA500&center=true&vCenter=true&width=700&lines=Finalist+Meta+Pragati+AI+for+Impact+Hackathon+2025;Runner-Up+NLP+HackathonX+(Kshitij+IIT+Kharagpur);Top+15+(All+India)+Re-Imagine+Hackathon+2024"/>
+</p>
 
+<br>
+
+<p align="center">
 <a href="https://holopin.io/@hopping12">
 <img src="https://holopin.me/hopping12"/>
 </a>
-
 </p>
-
 
 ---
 
@@ -154,7 +157,7 @@ Backend-focused **Software Engineer & AI Systems Builder** building scalable API
 
 </p>
 
----
+
 
 <p align="center">
 
