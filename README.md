@@ -4,40 +4,43 @@
   </a>
 </h1>
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deep-priyo/deep-priyo/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deep-priyo/deep-priyo/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/deep-priyo/deep-priyo/output/pacman-contribution-graph.svg">
 </picture>
 
-
-
-<!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Backend+Developer+%7C+AI+Engineer+%7C+Full+Stack+Dev;DevOps+Enthusiast+%7C+Scalable+Systems+Builder+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Backend+Developer+%7C+AI+Engineer+%7C+Full+Stack+Dev;DevOps+Enthusiast+%7C+Scalable+Systems+Builder+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="300"/>
 </p>
 
-
+<div align="center">
 
 ## <img width="40" src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png"> About Me <img width="40" src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png">
 
-Backend-focused **Software Engineer & AI Systems Builder** building scalable APIs, AI-powered platforms, and cloud-native systems.
+<p align="center">
 
-- 🧠 Building **AI-powered backend systems**
-- ⚙️ Designing **scalable REST APIs & microservices**
-- ☁️ Deploying **containerized systems on cloud infrastructure**
-- 🚀 Hackathon builder & real-world product developer
+Backend-focused <b>Software Engineer & AI Systems Builder</b> building scalable APIs, AI-powered platforms, and cloud-native systems.
+
+🧠 Building <b>AI-powered backend systems</b><br>
+⚙️ Designing <b>scalable REST APIs & microservices</b><br>
+☁️ Deploying <b>containerized systems on cloud infrastructure</b><br>
+🚀 Hackathon builder & real-world product developer
+
+</p>
+</div>
 
 ---
 
----
+<div align="center">
 
 ## <img  width="40" src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png"/> Tech Stack <img  width="40" src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png"/>
+
+</div>
 
 <div align="center">
 
@@ -46,31 +49,37 @@ Backend-focused **Software Engineer & AI Systems Builder** building scalable API
 <td width="60%" valign="top" align="center" style="border:none;">
 
 ### Languages
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,js,bash"/>
 </p>
 
 ### Backend
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flask,nodejs,express,spring"/>
 </p>
 
 ### Frontend
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs"/>
 </p>
 
 ### Databases
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite"/>
 </p>
 
 ### DevOps & Cloud
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=docker,aws,nginx,githubactions,linux"/>
 </p>
 
 ### Tools & IDEs
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,postman,pycharm,webstorm,idea"/>
 </p>
@@ -89,8 +98,11 @@ Backend-focused **Software Engineer & AI Systems Builder** building scalable API
 
 ---
 
+<div align="center">
+
 ## <img  width="40" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"/> Achievements & Badges  <img  width="40" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"/>
 
+</div>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=FFA500&center=true&vCenter=true&width=700&lines=Finalist+Meta+Pragati+AI+for+Impact+Hackathon+2025;Runner-Up+NLP+HackathonX+(Kshitij+IIT+Kharagpur);Top+15+(All+India)+Re-Imagine+Hackathon+2024"/>
@@ -106,7 +118,11 @@ Backend-focused **Software Engineer & AI Systems Builder** building scalable API
 
 ---
 
+<div align="center">
+
 # <img width="50" src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png"> GitHub Stats <img width="50" src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png">
+
+</div>
 
 <p align="center">
 
@@ -118,7 +134,11 @@ Backend-focused **Software Engineer & AI Systems Builder** building scalable API
 
 ---
 
+<div align="center">
+
 # 🔥 GitHub Streak
+
+</div>
 
 <p align="center">
 
@@ -128,7 +148,11 @@ Backend-focused **Software Engineer & AI Systems Builder** building scalable API
 
 ---
 
+<div align="center">
+
 # 🧠 LeetCode
+
+</div>
 
 <p align="center">
 
@@ -140,7 +164,11 @@ Backend-focused **Software Engineer & AI Systems Builder** building scalable API
 
 ---
 
+<div align="center">
+
 # <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40"> Connect With Me <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40">
+
+</div>
 
 <p align="center">
 
@@ -157,8 +185,6 @@ Backend-focused **Software Engineer & AI Systems Builder** building scalable API
 </a>
 
 </p>
-
-
 
 <p align="center">
 
