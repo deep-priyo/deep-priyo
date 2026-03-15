@@ -1,77 +1,13 @@
-## 🚀 About Me
-I'm a passionate full-stack developer focused on backend technologies and continuous learning, specializing in creating scalable web applications, robust authentication systems, and efficient database management.  
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+there!;I'm+Priyadeep;Glad+to+have+you+here!&center=true&size=24&height=45">
+  </a>
+</h1>
 
-🌱 **I’m currently learning:**
-  - Exploring more frontend frameworks like **React, Next.js, Vue** 🚀
-  - Enhancing skills in **Backend Development** with technologies such as **Flask, Django, Node.js** 🚀
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
-👯 **I’m looking to collaborate on:** Full Stack Apps, Web Development Projects
+---
 
-💬 **Ask me about:** Flask, SQLAlchemy, Backend Development, DSA, JavaScript
-
-## 🖥️ Tech Stack
-
-### **Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Backend Frameworks & Libraries**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask Login](https://img.shields.io/badge/Flask_Login-009688?style=for-the-badge&logo=flask&logoColor=white)
-![Flask Bcrypt](https://img.shields.io/badge/Flask_Bcrypt-8A2BE2?style=for-the-badge&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ff7f50?style=for-the-badge&logo=python&logoColor=white)
-
-### **Frontend Frameworks**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Databases**
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **Tools & IDEs**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
-
-## 🛠️ Skills
-- **Programming Languages:** Java, C, C++, Python, JavaScript
-- **Backend:** Flask, Django
-- **Frontend:** Bootstrap, Tailwind CSS, JavaScript, React, Next.js
-- **Database:** SQLAlchemy, SQL, MongoDB
-- **Problem Solving:** Data Structures and Algorithms (DSA) in Java
-- **Concepts:** Object-Oriented Programming (OOP), RESTful APIs
-
-[![An image of @hopping12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hopping12)](https://holopin.io/@hopping12)
-
-
-### **Languages**
-
-![Languages & Frameworks](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-priyo&langs_count=6&theme=radical&hide_border=true&layout=compact&hide=html)
-
-### **GitHub Streak**
-
-![GitHub Streak](https://streak-stats.demolab.com?user=deep-priyo&theme=radical&hide_border=true)
-
-### **GitHub Stats**
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deep-priyo/deep-priyo/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deep-priyo/deep-priyo/output/pacman-contribution-graph.svg">
@@ -80,15 +16,149 @@ I'm a passionate full-stack developer focused on backend technologies and contin
 
 ---
 
-### **LeetCode Stats**
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Backend+Developer+%7C+AI+Engineer+%7C+Full+Stack+Dev;DevOps+Enthusiast+%7C+Scalable+Systems+Builder+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/priyadeepmullick?ext=activity)](https://leetcard.jacoblin.cool/priyadeepmullick?ext=activity)
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-🔗?style=flat&logo=linkedin)](https://linkedin.com/in/prdm)
-[![Twitter](https://img.shields.io/badge/Twitter-🐦?style=flat&logo=twitter)](https://x.com/deep_priyo)
-[![LeetCode](https://img.shields.io/badge/leetcode-🐦?style=flat&logo=leetcode)](https://leetcode.com/u/priyadeepmullick/)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="300"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=deep-priyo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 👨‍💻 About Me
+
+Backend-focused **Software Engineer & AI Systems Builder** building scalable APIs, AI-powered platforms, and cloud-native systems.
+
+- 🧠 Building **AI-powered backend systems**
+- ⚙️ Designing **scalable REST APIs & microservices**
+- ☁️ Deploying **containerized systems on cloud infrastructure**
+- 🚀 Hackathon builder & real-world product developer
+
+---
+
+---
+
+## ⚙️ Tech Stack
+
+<table>
+<tr>
+<td width="65%" valign="top" align="center">
+
+### Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,bash"/>
+</p>
+
+### Backend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flask,nodejs,express,spring"/>
+</p>
+
+### Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs"/>
+</p>
+
+### Databases
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite"/>
+</p>
+
+### DevOps & Cloud
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,aws,nginx,githubactions,linux"/>
+</p>
+
+### Tools & IDEs
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,postman,pycharm,webstorm,idea"/>
+</p>
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="320">
+
+</td>
+</tr>
+</table>
+
+---
+
+
+
+# 🏆 Badges
+
+<p align="center">
+
+<a href="https://holopin.io/@hopping12">
+<img src="https://holopin.me/hopping12"/>
+</a>
+
+</p>
+
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=deep-priyo&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep-priyo&layout=compact&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=deep-priyo&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+# 🧠 LeetCode
+
+<p align="center">
+
+<a href="https://leetcode.com/u/priyadeepmullick/">
+<img src="https://leetcard.jacoblin.cool/priyadeepmullick?ext=activity"/>
+</a>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/prdm">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://x.com/deep_priyo">
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="https://leetcode.com/u/priyadeepmullick/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif"/>
+
+</p>
