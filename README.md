@@ -136,7 +136,7 @@ Backend-focused <b>Software Engineer & AI Systems Builder</b> building scalable 
 
 <div align="center">
 
-# 🔥 GitHub Streak
+# <img width="50" src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png">GitHub Streak<img width="50" src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png">
 
 </div>
 
@@ -149,7 +149,7 @@ Backend-focused <b>Software Engineer & AI Systems Builder</b> building scalable 
 
 <div align="center">
 
-# 🧠 LeetCode
+# <img width="50" src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png"> LeetCode <img width="50" src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png">
 
 </div>
 
@@ -172,15 +172,15 @@ Backend-focused <b>Software Engineer & AI Systems Builder</b> building scalable 
 <p align="center">
 
 <a href="https://linkedin.com/in/prdm">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img width="100" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/>
 </a>
 
 <a href="https://x.com/deep_priyo">
-<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x"/>
+<img width="100" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif"/>
 </a>
 
-<a href="https://leetcode.com/u/priyadeepmullick/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+<a href="https://www.youtube.com/@priyodeepmullick">
+<img width="100" src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif"/>
 </a>
 
 </p>
