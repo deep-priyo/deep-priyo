@@ -96,7 +96,7 @@ Backend-focused <b>Software Engineer & AI Systems Builder</b> building scalable 
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -116,7 +116,7 @@ Backend-focused <b>Software Engineer & AI Systems Builder</b> building scalable 
 </a>
 </p>
 
----
+
 
 <div align="center">
 
@@ -132,7 +132,7 @@ Backend-focused <b>Software Engineer & AI Systems Builder</b> building scalable 
 
 </p>
 
----
+
 
 <div align="center">
 
@@ -146,7 +146,6 @@ Backend-focused <b>Software Engineer & AI Systems Builder</b> building scalable 
 
 </p>
 
----
 
 <div align="center">
 
@@ -162,7 +161,7 @@ Backend-focused <b>Software Engineer & AI Systems Builder</b> building scalable 
 
 </p>
 
----
+
 
 <div align="center">
 
