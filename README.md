@@ -4,9 +4,6 @@
   </a>
 </h1>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deep-priyo/deep-priyo/output/pacman-contribution-graph-dark.svg">
@@ -14,7 +11,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/deep-priyo/deep-priyo/output/pacman-contribution-graph.svg">
 </picture>
 
----
+
 
 <!-- Typing animation -->
 <p align="center">
@@ -25,7 +22,7 @@
 <img src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="300"/>
 </p>
 
----
+
 
 ## 👨‍💻 About Me
 
