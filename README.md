@@ -62,6 +62,7 @@ I'm a passionate full-stack developer focused on backend technologies and contin
 
 [![An image of @hopping12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hopping12)](https://holopin.io/@hopping12)
 
+
 ### **Languages**
 
 ![Languages & Frameworks](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-priyo&langs_count=6&theme=radical&hide_border=true&layout=compact&hide=html)
@@ -71,8 +72,13 @@ I'm a passionate full-stack developer focused on backend technologies and contin
 ![GitHub Streak](https://streak-stats.demolab.com?user=deep-priyo&theme=radical&hide_border=true)
 
 ### **GitHub Stats**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deep-priyo/deep-priyo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deep-priyo/deep-priyo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/deep-priyo/deep-priyo/output/pacman-contribution-graph.svg">
+</picture>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deep-priyo&show_icons=true&theme=radical&hide_title=true)
+---
 
 ### **LeetCode Stats**
 
