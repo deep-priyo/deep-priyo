@@ -24,7 +24,7 @@
 
 
 
-## 👨‍💻 About Me
+## <img width="40" src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png"> About Me <img width="40" src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png">
 
 Backend-focused **Software Engineer & AI Systems Builder** building scalable APIs, AI-powered platforms, and cloud-native systems.
 
@@ -37,7 +37,8 @@ Backend-focused **Software Engineer & AI Systems Builder** building scalable API
 
 ---
 
-## ⚙️ Tech Stack
+## <img  width="40" src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png"/> Tech Stack <img  width="40" src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png"/>
+
 <div align="center">
 
 <table border="0" style="border:none;">
@@ -105,7 +106,7 @@ Backend-focused **Software Engineer & AI Systems Builder** building scalable API
 
 ---
 
-# 📊 GitHub Stats
+# <img width="50" src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png"> GitHub Stats <img width="50" src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png">
 
 <p align="center">
 
@@ -139,7 +140,7 @@ Backend-focused **Software Engineer & AI Systems Builder** building scalable API
 
 ---
 
-# 📫 Connect With Me
+# <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40"> Connect With Me <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40">
 
 <p align="center">
 
