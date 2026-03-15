@@ -38,10 +38,11 @@ Backend-focused **Software Engineer & AI Systems Builder** building scalable API
 ---
 
 ## ⚙️ Tech Stack
+<div align="center">
 
-<table>
+<table border="0" style="border:none;">
 <tr>
-<td width="65%" valign="top" align="center">
+<td width="60%" valign="top" align="center" style="border:none;">
 
 ### Languages
 <p align="center">
@@ -75,7 +76,7 @@ Backend-focused **Software Engineer & AI Systems Builder** building scalable API
 
 </td>
 
-<td width="35%" align="center">
+<td width="40%" align="center" style="border:none;">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="320">
 
@@ -83,6 +84,7 @@ Backend-focused **Software Engineer & AI Systems Builder** building scalable API
 </tr>
 </table>
 
+</div>
 ---
 
 
