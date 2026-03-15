@@ -175,16 +175,16 @@ I promise it's worth the click — explore my projects, experiments, and the thi
 </p>
 
 
-<a href="https://deep-dive-portfolio.vercel.app/"> <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+<a href="https://deep-dive-portfolio.vercel.app/"> <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"> </a>
 
-##  Visit My Portfolio </a>
+## <a href="https://deep-dive-portfolio.vercel.app/"> Visit My Portfolio </a>
 
 
 </div>
 
 <div align="center">
 
-<br>
+
 
 # <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40"> Connect With Me <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40">
 
