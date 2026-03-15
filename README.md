@@ -163,7 +163,28 @@ Backend-focused <b>Software Engineer & AI Systems Builder</b> building scalable 
 
 
 
+
+
 <div align="center">
+
+# <img src="https://user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif" width="50"> Made it this far? Check out my Portfolio! <img src="https://user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif" width="50">
+
+<p>
+If you've scrolled this far, you're clearly curious 👀<br>
+I promise it's worth the click — explore my projects, experiments, and the things I love building.
+</p>
+
+
+<a href="https://deep-dive-portfolio.vercel.app/"> <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+
+##  Visit My Portfolio </a>
+
+
+</div>
+
+<div align="center">
+
+<br>
 
 # <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40"> Connect With Me <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40">
 
@@ -182,11 +203,8 @@ Backend-focused <b>Software Engineer & AI Systems Builder</b> building scalable 
 <a href="https://www.youtube.com/@priyodeepmullick">
 <img width="100" src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif"/>
 </a>
-
 </p>
-
+<br>
 <p align="center">
-
-<img  width="400" height="100" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif"/>
-
+<img width="900" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 </p>
