@@ -29,7 +29,7 @@ Backend-focused <b>Software Engineer & AI Systems Builder</b> building scalable 
 🧠 Building <b>AI-powered backend systems</b><br>
 ⚙️ Designing <b>scalable REST APIs & microservices</b><br>
 ☁️ Deploying <b>containerized systems on cloud infrastructure</b><br>
-🚀 Hackathon builder & real-world product developer
+🚀 Real-world product developer & Hackathon builder 
 
 </p>
 </div>
